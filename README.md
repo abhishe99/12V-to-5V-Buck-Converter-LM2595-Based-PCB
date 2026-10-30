@@ -43,10 +43,4 @@ This project showcases the schematic and PCB layout of a 12V to 5V Buck Converte
 
 - KiCad 9.0 (schematic, PCB, 3D viewer)
 
----
 
-## 🔗 Author Info
-
-**Vishal Singh**  
-Electronics compliance specialist, EV/VLSI transitioner  
-[LinkedIn Profile] https://www.linkedin.com/in/vishal-singh-542338161/
